@@ -1,0 +1,36 @@
+.movie-container{
+  width: 900px;
+  margin: 8px;
+  
+}
+.detail-container{
+  padding-left: 250px;
+  height: 100%;
+  height:fit-content;
+}
+h1{
+  font-size: 20px;
+  letter-spacing: 4px;
+  padding-left: 34px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+  color: gold;
+}
+.movie-container img{
+  float: left;
+  width: 25%;
+  border: 2px solid white;
+}
+section{
+    display: flex;
+    flex-direction: 
+    row; gap:30px
+}
+p{
+    font-size: 20px;
+}

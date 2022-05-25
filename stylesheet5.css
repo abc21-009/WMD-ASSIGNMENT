@@ -1,0 +1,52 @@
+.btn-group .button {
+    background-color:transparent;
+    border-radius: 10px;
+    color: white;
+    padding: 12px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  a{
+      text-decoration: none;
+      color: white;
+  }
+  .active{
+    border-bottom: 3px solid var(--hover-color);
+}
+  .movie-container{
+    width: 1500px;
+    margin: 8px;
+    
+  }
+  .detail-container{
+    height: 100%;
+    height:fit-content;
+  }
+  .movie-container img{
+    width: 90%;
+    border: 2px solid white;
+  }
+  section{
+      display: flex;
+      flex-direction: row; 
+  }
+  p{
+      font-size: 12px;
+  }
+  h1{
+    font-size: 12px;
+    letter-spacing: 4px;
+    padding-left: 34px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  h2{
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  span{
+    color: gold;
+  }
+  
